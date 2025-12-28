@@ -66,3 +66,7 @@ ansible-playbook -l group_a playbooks/ping.yml -C
 ```
 ansible-playbook -l group_a playbooks/ping.yml 
 ```
+
+## References
+
+[Ansible Official Documentation](https://docs.ansible.com/)
